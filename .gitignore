@@ -67,7 +67,7 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+
 
 # Python caches and metadata
 .mypy_cache/
